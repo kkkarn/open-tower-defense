@@ -1,0 +1,1 @@
+This project is an open source game based on the popular "Tower Defense"-style game.  It is coded in C# using MS Visual C# Express Edition and the MS XNA libraries.
